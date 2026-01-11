@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Data classes
-class GuiDefinition {
+public class GuiDefinition {
     public String type = "custom";
     public String title;
     public int width = 176;

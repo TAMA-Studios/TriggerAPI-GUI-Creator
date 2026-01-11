@@ -2,7 +2,7 @@ package com.code.tama.triggerguicreator;
 
 import java.util.List;
 
-class GuiElement {
+public class GuiElement {
     public String type, id;
     // Common
     public int x, y, width, height;

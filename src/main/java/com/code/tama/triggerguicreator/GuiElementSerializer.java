@@ -6,7 +6,7 @@ import com.google.gson.JsonSerializationContext;
 import com.google.gson.JsonSerializer;
 
 // Custom serializer to only include relevant fields for each element type
-class GuiElementSerializer implements JsonSerializer<GuiElement> {
+public class GuiElementSerializer implements JsonSerializer<GuiElement> {
     public JsonElement serialize(GuiElement el, java.lang.reflect.Type type, JsonSerializationContext ctx) {
         JsonObject obj = new JsonObject();
         // Common fields

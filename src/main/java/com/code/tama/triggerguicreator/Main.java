@@ -7,11 +7,12 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.*;
+import com.code.tama.triggerguicreator.*;
 
 import com.google.gson.*;
 
 public class Main extends JFrame {
-    private final Map<String, BufferedImage> textureRegistry = new HashMap<>();
+    public final Map<String, BufferedImage> textureRegistry = new HashMap<>();
 
     private GuiCanvas canvas;
     private JPanel propertiesPanel;

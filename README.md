@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>TriggerAPI GUI Editor Documentation</title>
 </head>
 <body style="font-family: sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px;">
 

@@ -7,7 +7,6 @@
 </head>
 <body style="font-family: sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px;">
 
-```
 <header style="border-bottom: 2px solid #4A90E2; padding-bottom: 10px; margin-bottom: 20px;">
     <h1 style="color: #4A90E2; margin-bottom: 5px;">TriggerAPI GUI Editor</h1>
     <p style="font-style: italic; color: #666;">A visual design tool for creating and exporting Minecraft-compatible custom GUI JSON definitions.</p>
@@ -98,8 +97,6 @@
 <footer style="margin-top: 40px; padding-top: 10px; border-top: 1px solid #ddd; font-size: 0.9em; color: #888;">
     <p>Developed for TriggerAPI GUI Creation. Requires Java 17+ and the Google GSON library.</p>
 </footer>
-
-```
 
 </body>
 </html>
